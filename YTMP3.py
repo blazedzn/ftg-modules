@@ -5,7 +5,7 @@ import io
 
 @loader.tds
 class YTmp3Mod(loader.Module):
-    """YouTube to .mp3 by @blazeftg"""
+    """YouTube to .mp3 by @kamolgks"""
     strings = {"name": "ytmp3"}
 
     async def mp3cmd(self, message):
