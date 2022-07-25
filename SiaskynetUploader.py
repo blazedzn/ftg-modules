@@ -4,7 +4,7 @@ import os
 
 @loader.tds
 class UploaderMod(loader.Module):
-    """siasky.net uploader by @blazeftg"""
+    """siasky.net uploader"""
     strings = {"name": "FileUploader"}
 
     async def uploadcmd(self, message):
