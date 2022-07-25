@@ -5,7 +5,7 @@ import datetime
 
 @loader.tds
 class AnimeSearcherrMod(loader.Module):
-    """Ищет аниме по картинке by @blazeftg"""
+    """Ищет аниме по картинке by @kamolgks"""
     strings = {"name": "AnimeSearcher"}
 
     async def findanimecmd(self, message):
