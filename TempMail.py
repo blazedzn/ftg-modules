@@ -4,7 +4,7 @@ import asyncio
 
 @loader.tds
 class TempMailMod(loader.Module):
-    """Временная почта by @blazeftg"""
+    """Временная почта"""
     strings = {"name": "TempMail"}
 
     async def getmailcmd(self, message):
